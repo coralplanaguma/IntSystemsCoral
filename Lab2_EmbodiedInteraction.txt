@@ -1,0 +1,17 @@
+heart: when a sheep is hit appears a heart that rotates and goes up 
+
+sounds: - sound when HayBale goes off the HayMachine
+		- sound when Sheep gets hit	
+		- sound when Sheep falls
+		
+Keeping score:	- of hit sheeps with a heart icone next to it
+				- after 3 Sheeps fall down, game over -> you can press esc and go to the Menu
+
+Menu:	- Quit button: go out of game
+		- Start button: start the game
+		- When you put mouth on the button it gets clear
+		- Click on the machine to change the color and press Start to play with that machine color
+			
+Press esc when you are in the game to come back to Menu
+
+Flowers added to the Start escene and to the Game scene
